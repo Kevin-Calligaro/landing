@@ -1,0 +1,20 @@
+.banner {
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  width: auto;
+  height: 600px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+  width: auto;
+  height: 600px;
+}
+
+.container p {
+  color: #999999;
+  font-size: 20px;
+}
